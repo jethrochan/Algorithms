@@ -1,6 +1,10 @@
 #README
 #Author: Jethro Chan
 
+#This folder is basic data structures and technical challenges for practice
+
+#For the challenge regarding parsing, I included an explanation to show what the results of the parsing program looks like.
+
 #The attached code starts out with comments on what the code should do, specified during the interview
 #The following lines reads in the raw input as a string, passed into the function parseCourseInfo(string)
 
